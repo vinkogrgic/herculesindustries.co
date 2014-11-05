@@ -1,9 +1,8 @@
 # Site settings
 title: Hercules Industries Blog
 email: vinko.grgic@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A blog about the cyborg future.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+description: > A blog about the cyborg future. # this means to ignore newlines until "baseurl:"
+baseurl: "http://vinkogrgic.github.io/herculesindustries.co/blog" # the subpath of your site, e.g. /blog/
 url: "http://herculesindustries.co" # the base hostname & protocol for your site
 github_username:  vinkogrgic
 
